@@ -5,7 +5,7 @@
 - 📚 I'm currently pursuing a Master in International Development at Duke University.
 - 👩‍💻 I have over 7 years of professional experience in Data Science.
 - 🎓 I hold a Bachelor's degree in Business Administration.
-- 🚀 I'm continuously enhancing skills in Data Analytics and Machine Learning.
+- 🚀 I'm continuously enhancing skills in Finance, Data Analytics and Machine Learning.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mai-nguyen-ab1165a6/)
 
 ## Skills
